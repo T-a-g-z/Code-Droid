@@ -41,7 +41,7 @@ background-color: white  !important;
     height: 82vh;
 }
 .page-footer{
-    position: relative;
+    position: absolute;
     bottom: 0;
 }
 .footercol{
@@ -138,3 +138,13 @@ a.icons{
     color: white;
 }
 /* TextEditor */
+
+/*Userpage*/
+#head-createRoom{
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn-danger{
+    margin-left: 30%;
+}
+/*Userpage*/
