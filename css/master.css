@@ -117,3 +117,24 @@ a.icons{
     margin-bottom: 7px;
 }
 /*Login Page*/
+
+/* TextEditor */
+#iframeResult{
+    height: 100%;
+    width: 100%;
+}
+#iframecontainer{
+    margin-top: 137px;
+    width: 100%;
+    height: 570px;
+}
+#iframewrapper{
+    width: 100%;
+    height: 550px;
+    border: 2px solid black;
+}
+#textareaCode{
+    background-color: #3C3C3C;
+    color: white;
+}
+/* TextEditor */

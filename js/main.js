@@ -34,3 +34,4 @@ sr.reveal('.footer', {
     viewFactor:0.2
 });
 });
+
